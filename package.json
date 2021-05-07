@@ -1,0 +1,17 @@
+{
+  "name": "queue-books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "queueHandler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-limiter": "^2.0.0",
+    "colors": "^1.4.0",
+    "pm2": "^4.5.6"
+  }
+}
